@@ -22,7 +22,7 @@ export default function CrudUsuarios()
     return(
         <>
          <div>
-             Formulario
+             FormularioNuevo
              <Formulario crearUsuario={crearUsuario} />
          </div>
         </>
